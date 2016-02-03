@@ -1,5 +1,7 @@
 # Bitfinex api for golang
 
+[![Join the chat at https://gitter.im/maigiadoan/bitfinex-api-go](https://badges.gitter.im/maigiadoan/bitfinex-api-go.svg)](https://gitter.im/maigiadoan/bitfinex-api-go?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Installation
 
 ``` bash
